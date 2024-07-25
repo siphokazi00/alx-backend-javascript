@@ -13,3 +13,5 @@ exposrt function taskNext() {
 
 	return combinaion;
 }
+
+module.exports = { taskFirst, getLast, taskNext };
