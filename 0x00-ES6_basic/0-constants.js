@@ -7,11 +7,9 @@ export function getLast() {
 	return ' is okay';
 }
 
-exposrt function taskNext() {
+export function taskNext() {
 	let combination = 'But sometimes let';
 	combination += getLast();
 
 	return combinaion;
 }
-
-module.exports = { taskFirst, getLast, taskNext };
