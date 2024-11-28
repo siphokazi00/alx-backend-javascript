@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "install-mocha": "npm install mocha --save-dev",
     "test": "mocha"
   },
   "devDependencies": {
-    "mocha": "^9.1.3"
+    "mocha": "^9.2.2"
   }
 }
